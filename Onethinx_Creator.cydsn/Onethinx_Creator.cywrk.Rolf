@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter_cfg.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Onethinx_Creator\Onethinx_Creator\CM4 (Core 1)\Source Files\main_cm4.c">
 <ExpandedNodeIds>
 <v>Onethinx_Creator</v>
 <v>Onethinx_Creator\Onethinx_Creator</v>
@@ -70,6 +70,14 @@
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\pdl\drivers\peripheral\flash</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\Pins</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\Analog</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\DMA</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\Clocks</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\Interrupts</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\System</v>
+<v>Onethinx_Creator\Onethinx_Creator\Onethinx_Creator.cydwr\Directives</v>
 <v>Onethinx_Creator\Onethinx_Creator\CM0p (Core 0)</v>
 <v>Onethinx_Creator\Onethinx_Creator\CM0p (Core 0)\ARM GCC Generic</v>
 <v>Onethinx_Creator\Onethinx_Creator\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
@@ -116,14 +124,6 @@
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cycodeshareimport.ld</v>
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cycodeshareimport.scat</v>
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cydevice_trm.h</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cydevicegnu_trm.inc</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cydeviceiar_trm.inc</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cydevicerv_trm.inc</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cydisabledsheets.h</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter.h</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter_cfg.c</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter_cfg.h</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cymetadata.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -317,6 +317,7 @@
 <name v=".\main_cm0p.c" />
 <name v=".\system_psoc6_cm4.c" />
 <name v=".\Generated_Source\PSoC6\cyfitter_cfg.c" />
+<name v=".\iar\startup_psoc6_01_cm4.s" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -324,7 +325,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1297, 677" SelectedTabbedMdiWindow="99223326-7141-4e81-a731-e06805eaa9d0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="824c2bac-a1b0-4b2e-980f-68a0b68a063e" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\TopDesign\TopDesign.cysch" Guid="99223326-7141-4e81-a731-e06805eaa9d0" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Onethinx_Creator.cydwr" Guid="7fa58b75-b587-4544-b80e-b9a139911dcc" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm4.c" Guid="79882f3c-00b2-4782-ac27-33fe937a7578" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm0plus.c" Guid="1779260b-395c-4ce1-a433-9026a907aebe" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm0p.c" Guid="811f1c3f-e2f0-4b35-a109-bfb2bc60a066" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm4.c" Guid="c0ede3b4-24e8-4553-b4f1-20af9e4078a4" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Generated_Source\PSoC6\cyfitter_cfg.c" Guid="c6c49a20-c7ba-40f8-9956-78877dd4c3bc" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1297, 677" SelectedTabbedMdiWindow="811f1c3f-e2f0-4b35-a109-bfb2bc60a066"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="824c2bac-a1b0-4b2e-980f-68a0b68a063e" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\TopDesign\TopDesign.cysch" Guid="99223326-7141-4e81-a731-e06805eaa9d0" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Onethinx_Creator.cydwr" Guid="7fa58b75-b587-4544-b80e-b9a139911dcc" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm4.c" Guid="79882f3c-00b2-4782-ac27-33fe937a7578" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm0plus.c" Guid="1779260b-395c-4ce1-a433-9026a907aebe" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm0p.c" Guid="811f1c3f-e2f0-4b35-a109-bfb2bc60a066" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm4.c" Guid="c0ede3b4-24e8-4553-b4f1-20af9e4078a4" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Generated_Source\PSoC6\cyfitter_cfg.c" Guid="c6c49a20-c7ba-40f8-9956-78877dd4c3bc" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\iar\startup_psoc6_01_cm4.s" Guid="ba25a797-4609-4198-864b-689d909397fc" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

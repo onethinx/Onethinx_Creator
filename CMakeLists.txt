@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.7.2)
 
-set(DEBUG_ON false)
+set(DEBUG_ON true)
 ######################################################################
 #
 #	Toolchain Setup
@@ -93,7 +93,6 @@ set(PROJECT_FLAGS_ARCH
     "-mcpu=cortex-m4"
     "-mfloat-abi=softfp"
     "-mfpu=fpv4-sp-d16"
-    "-DCYDEV_CLK_ALTHF__HZ=8000000UL"
 )
 
 set(PROJECT_LINKER_FLAGS

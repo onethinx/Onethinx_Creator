@@ -124,7 +124,6 @@
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter_cfg.c</v>
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cyfitter_cfg.h</v>
 <v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\cymetadata.c</v>
-<v>Onethinx_Creator\Onethinx_Creator\Generated_Source\PSoC6\project.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -217,6 +216,58 @@
 <VisibleNodeIds>
 <v>Onethinx_Creator</v>
 <v>Onethinx_Creator\Onethinx_Creator</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Onethinx_Creator.elf</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Onethinx_Creator.hex</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM0p\ARM_GCC_541\Debug\Onethinx_Creator.map</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Onethinx_Creator\Onethinx_Creator\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -262,6 +313,10 @@
 <name v=".\TopDesign\TopDesign.cysch" />
 <name v=".\Onethinx_Creator.cydwr" />
 <name v=".\main_cm4.c" />
+<name v=".\system_psoc6_cm0plus.c" />
+<name v=".\main_cm0p.c" />
+<name v=".\system_psoc6_cm4.c" />
+<name v=".\Generated_Source\PSoC6\cyfitter_cfg.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -269,7 +324,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1297, 677" SelectedTabbedMdiWindow="99223326-7141-4e81-a731-e06805eaa9d0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="824c2bac-a1b0-4b2e-980f-68a0b68a063e" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\TopDesign\TopDesign.cysch" Guid="99223326-7141-4e81-a731-e06805eaa9d0" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Onethinx_Creator.cydwr" Guid="7fa58b75-b587-4544-b80e-b9a139911dcc" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm4.c" Guid="79882f3c-00b2-4782-ac27-33fe937a7578" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1297, 677" SelectedTabbedMdiWindow="99223326-7141-4e81-a731-e06805eaa9d0"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="824c2bac-a1b0-4b2e-980f-68a0b68a063e" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\TopDesign\TopDesign.cysch" Guid="99223326-7141-4e81-a731-e06805eaa9d0" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Onethinx_Creator.cydwr" Guid="7fa58b75-b587-4544-b80e-b9a139911dcc" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm4.c" Guid="79882f3c-00b2-4782-ac27-33fe937a7578" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm0plus.c" Guid="1779260b-395c-4ce1-a433-9026a907aebe" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\main_cm0p.c" Guid="811f1c3f-e2f0-4b35-a109-bfb2bc60a066" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\system_psoc6_cm4.c" Guid="c0ede3b4-24e8-4553-b4f1-20af9e4078a4" /><DocumentWindow Key="R:\VScode\GIT\Onethinx_Creator\Onethinx_Creator.cydsn\Generated_Source\PSoC6\cyfitter_cfg.c" Guid="c6c49a20-c7ba-40f8-9956-78877dd4c3bc" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

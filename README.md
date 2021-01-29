@@ -1,4 +1,4 @@
-# Onethinx_Creator
+# Onethinx_Creator_Project
 This project combines the Visual Code setup for the Onethinx Core Module with the magnificent PSoC Creator Schematic Editor &amp; Design Wide Resources Editor
 
 ## Preparation

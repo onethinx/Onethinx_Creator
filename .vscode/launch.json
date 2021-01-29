@@ -60,7 +60,7 @@
             // svdFile is optional, it can be very large.
             "svdFile": "${env:ONETHINX_SVD_LOC}/psoc6_01.svd",
             "runToMain": true,                  // if true, program will halt at main. Not used for a restart     
-            "preLaunchTask": "Check build",     // Set this to run a task from tasks.json before starting a debug session
+            "preLaunchTask": "${command:otx.preLaunch}",     // Set this to run a task from tasks.json before starting a debug session
             "showDevDebugOutput": false,        // Shows output of GDB, helpful when something is not working right
         },
         {
